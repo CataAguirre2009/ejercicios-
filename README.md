@@ -13,3 +13,10 @@ actividades
 8-mostrar las columnas gender y maths score. mostrar el tipo de dato de la columna gender. mostrar si hay filas o columnas vacias. mostrar la cantidad de filas y columnas que tiene. mostrar las ultimas 5 filas. 
 
 9-abrir el csv las ultimas 3 columnas. mostrar las 100 primerasa filas. mostrar la cantidad de la primera columna. mostrar si hay filas vacias. mostrar los diferentes tipo de dato de lasa columnas
+
+10-instalar el matplotlib, y hacer un arreglo de eje cartesiano
+
+11-usar el pandas y el matplotlib para graficar las columnas maths score y reading score
+
+12-abrir csv. sumar la columna maths score. encontrar el minimo y el maximo en la misma. contar los elementos de la columna maths score
+
