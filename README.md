@@ -20,3 +20,4 @@ actividades
 
 12-abrir csv. sumar la columna maths score. encontrar el minimo y el maximo en la misma. contar los elementos de la columna maths score
 
+13- abrir el csv. mostrar las columnas gender y maths score. mostrar las primeras 8 filas. mostrar las ultimas 4 filas. mostrar los tipo de dato de cada columna. mostrar si hay algun espacio sin usar. contar cantidad de cada columna. 
