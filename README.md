@@ -24,3 +24,14 @@ actividades
 
 14-abrir el csv. mostrar la columna math score y hight school, ordenar con sort_values la columna math score, ordernar con sort_values la columna math score
 
+15-abrir el user csv. mostrar la columna pais y edad. ordenar la columna edad y mostrar los 5 usuarios mas viejos de alemania.
+obtener los 5 usuarios mas viejos de alemania.
+
+
+
+
+
+
+
+
+
